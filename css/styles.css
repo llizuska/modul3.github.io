@@ -1,0 +1,43 @@
+/* Додаткові стилі для вашої сторінки */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+.navbar-default .navbar-brand:hover, 
+.navbar-default .navbar-brand:focus {
+    color: #5e5e5e;
+}
+
+.navbar-nav > li > a {
+    color: #000;
+}
+
+.navbar-nav > li > a:hover, 
+.navbar-nav > li > a:focus {
+    color: #5e5e5e;
+}
+
+.container h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+}
+
+.section {
+    background-color: lightgray;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.section h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
